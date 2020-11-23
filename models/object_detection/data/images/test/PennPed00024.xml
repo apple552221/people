@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PNGImages</folder>
+	<filename>PennPed00024.png</filename>
+	<path>C:\Users\q0920\Desktop\PennFudanPed\PNGImages\PennPed00024.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>409</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>people</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>47</ymin>
+			<xmax>182</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>
